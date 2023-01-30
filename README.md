@@ -3,6 +3,6 @@
 
 Este proyecto fue creado para poner en practica conceptos básicos de Git y Github
 
-<a href="https://lissleal.github.io/fdsw-github/">Un poco de mi</a>
+<a href="https://lissleal.github.io/unpocodemi/">Un poco de mi</a>
 
 
